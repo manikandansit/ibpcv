@@ -1,0 +1,88 @@
+
+
+body{
+  background-color: #e0ece4;
+}
+
+
+.header1{
+
+  background-color: #a0c1b8;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+ color: #065c6f;
+}
+
+h3{
+  color: #065c6f;
+}
+
+h2{
+  color: #065c6f;
+}
+
+td:hover
+{
+  background-color: grey;
+}
+
+a:link{
+
+    color: red;
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  background-color: gold;
+
+}
+
+a:active{
+  color: red;
+}
+img {
+  background-color: black;
+}
+.Circular123
+{
+ border-radius: 25%;
+}
+
+p:active{
+
+  background-color: red;
+}
+
+
+form:active
+{
+  Color: red;
+}
+
+form submit
+{
+  background-color: blue;
+}
+
+.linkstyle
+{
+  border-style: dotted;
+}
+
+.linkstyle::after
+{
+    /*content: "Click here to go Home page";
+background-color: gold;*/
+  border-style: dotted;
+}
